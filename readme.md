@@ -3,6 +3,9 @@
 Um jogo simples de Pedra, Papel e Tesoura feito com HTML e JavaScript puro. O usuário escolhe uma opção e o computador escolhe aleatoriamente. Quem vencer, ganha!
 
 ![Gameplay do jogo](img/Jokempo.png) 
+<p align="center">
+  <img src="img/Jokempo.png" alt="Game" width="300"/>
+</p>
 
 ## 🧠 Como funciona
 
