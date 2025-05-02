@@ -1,3 +1,10 @@
+
+![Jogo](https://img.shields.io/badge/-JOGO-black?&style=for-the-badge)
+![Jokempo](https://img.shields.io/badge/-JOKEMPO-800000?&style=for-the-badge)
+![Javascript](https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?logo=javascript&logoColor=black&&style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white)
+
 # ✊🖐✌️ Jogo Pedra, Papel e Tesoura
 
 Um jogo simples de Pedra, Papel e Tesoura feito com HTML e JavaScript puro. O usuário escolhe uma opção e o computador escolhe aleatoriamente. Quem vencer, ganha!
